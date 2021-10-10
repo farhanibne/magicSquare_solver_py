@@ -1,0 +1,1 @@
+# magicSquare_solver_py
